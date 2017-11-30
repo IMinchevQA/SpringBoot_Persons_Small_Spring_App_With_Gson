@@ -1,0 +1,61 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Snow",
+    "address": {
+      "country": "Spain",
+      "city": "Barcelona",
+      "street": "Barcelona 12"
+    },
+
+    "phoneNumbers": [
+      {
+        "number": "1e341341"
+      },
+
+      {
+        "number": "542152"
+      }
+    ]
+  },
+
+  {
+    "firstName": "Pesho",
+    "lastName": "Peshev",
+    "address": {
+      "country": "Bulgaria",
+      "city": "Ruse",
+      "street": "Hristo Botev"
+    },
+
+    "phoneNumbers": [
+      {
+        "number": "12345"
+      },
+
+      {
+        "number": "67890"
+      }
+    ]
+  },
+
+  {
+    "firstName": "Stamat",
+    "lastName": "Stamatev",
+    "address": {
+      "country": "Bulgaria",
+      "city": "Vraca",
+      "street": "Montana"
+    },
+
+    "phoneNumbers": [
+      {
+        "number": "121314"
+      },
+
+      {
+        "number": "151617"
+      }
+    ]
+  }
+]
